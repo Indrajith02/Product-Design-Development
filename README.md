@@ -1,7 +1,7 @@
 # Product-Design-Development
   ***About me- I am a passionate engineer Intreseted in Mechanical Field.***
   
-![indrajith](img/1656738858807 (3).jpg)
+![indrajith](https://github.com/Indrajith02/Product-Design-Development/blob/main/img/1656738858807%20(3).jpg?raw=true)
 1. [Exp1](prt/85.sec.1)
 2. Exp 2
 3. Exp 3
